@@ -1,0 +1,24 @@
+Process Log : 03/22/2022 16:58:03
+*******************************************************************************************
+Total Earnings entry is a string/empty or invalid entry for Employee: Neha Natesh
+Total Earnings entry is a string/empty or invalid entry for Employee: Dimple Khanna
+*******************************************************************************************
+Neha Natesh Errors found in the input data. PDF not created.
+*********************************************************************************
+Simple kapoor PDF successfully created.
+*********************************************************************************
+Dimple Khanna Errors found in the input data. PDF not created.
+*********************************************************************************
+Email to : Neha Natesh successfuly sent
+Email to : Simple kapoor successfuly sent
+Email to : Dimple Khanna successfuly sent
+Email to : HSInnings successfuly sent
+Email to : HSInningsEmail 2 successfuly sent
+Email to : Najma Fathima successfuly sent
+Email to : Sana Khan successfuly sent
+Email to : Sufain Baig successfuly sent
+Email to : Muhammed Baig successfuly sent
+Email to : Shradha Sarap successfuly sent
+***************************************************************************************************************************
+Status Report emailed to the HR. Process complete.
+*****************************************************************************************************************
